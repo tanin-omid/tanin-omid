@@ -1,10 +1,10 @@
 
 
-appName: omt
+appName: myhelmapp
 
 port: 80
 
-namespace: omt
+namespace: default
 
 configmap:
   name: omt-configmap-v1
