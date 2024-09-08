@@ -14,5 +14,5 @@ configmap:
 replica: 4
 
 image:
-  name: devopsjourney1/mywebapp
+  name: nginx #devopsjourney1/mywebapp
   tag: latest
