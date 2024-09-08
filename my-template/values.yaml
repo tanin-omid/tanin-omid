@@ -11,7 +11,7 @@ configmap:
   data:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
-replica: 4
+replica: 2
 
 image:
   name: nginx #devopsjourney1/mywebapp
